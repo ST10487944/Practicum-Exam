@@ -20,5 +20,6 @@ The application's Features:
 6. Click "Exit App" to close the application
 
 
+
 Created by:
 Lwandle Victoria Simango
